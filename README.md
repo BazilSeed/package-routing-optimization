@@ -60,10 +60,10 @@ A custom hash table was built from scratch to store and retrieve package data. E
 
 ## Results
 
-- ✅ All 40 packages delivered on time
-- ✅ Total combined mileage under 140 miles
-- ✅ All special delivery constraints met (deadlines, grouping, address correction)
-- ✅ Truck scheduling constraints satisfied
+- All 40 packages delivered on time
+- Total combined mileage under 140 miles
+- All special delivery constraints met (deadlines, grouping, address correction)
+- Truck scheduling constraints satisfied
 
 
 ## Future Improvements
